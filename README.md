@@ -1,9 +1,24 @@
-## React Student Scoreboard
-# Web Dev II Lab Assignment 3
+# React Student Scoreboard
 
-Features:
-- Add students
-- Update scores
+Lab Assignment 3 — Web Dev II
+
+## Features
+- View student records
+- Update scores dynamically
+- Add new students
 - Pass/Fail status
-- Dynamic statistics
-- Cyberpunk UI
+- Statistics dashboard
+- Cyberpunk themed UI
+
+## Tech Stack
+- React + Vite
+- JSX
+- Pure CSS
+
+## Run Project
+
+npm install
+npm run dev
+
+## Author
+Your Name
